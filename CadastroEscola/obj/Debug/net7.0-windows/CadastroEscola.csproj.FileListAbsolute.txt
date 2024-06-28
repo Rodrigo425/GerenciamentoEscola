@@ -1,0 +1,70 @@
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Form1.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\refint\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\ref\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Aluno.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Curso.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Professor.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\CadastroEscola\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Turma.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.exe
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.deps.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.runtimeconfig.json
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\CadastroEscola.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.AssemblyReference.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Aluno.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Curso.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Form1.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Professor.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Properties.Resources.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.Turma.resources
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.GenerateResource.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.AssemblyInfoInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.AssemblyInfo.cs
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.CoreCompileInputs.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.csproj.CopyComplete
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\refint\CadastroEscola.dll
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.pdb
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\CadastroEscola.genruntimeconfig.cache
+C:\Users\rodri\OneDrive\Área de Trabalho\Arquivos HD\Analise e desenvolvimento de sistemas\Aulas faculdade\Linguagem C#\Atividades\CadastroEscola_atividade05\CadastroEscola\obj\Debug\net7.0-windows\ref\CadastroEscola.dll
